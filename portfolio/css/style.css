@@ -1,3 +1,4 @@
+* {background-color: rgb(232, 234, 228)}
 h1{
     text-align: center;
     
@@ -7,12 +8,13 @@ h2{
     margin-bottom: 20px;
     margin-right: 150px;
     margin-left: 150px;
-    background-color: rgb(113, 209, 155);
+    background-color: rgb(136, 221, 173);
+    border-radius: 3px;
 }
-body{
-    text-align-last: center;
+.p1{
+    text-align: center;
     margin-top: 50px;
     margin-bottom: 100px;
-    margin-right: 150px;
+    margin-right: 100px;
     margin-left: 100px;
 }
