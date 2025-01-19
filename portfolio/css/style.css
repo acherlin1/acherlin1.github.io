@@ -19,8 +19,8 @@ h2{
     text-align: center;
     margin-top: 50px;
     margin-bottom: 100px;
-    margin-right: 250px;
-    margin-left: 250px;
+    margin-right: 100px;
+    margin-left: 100px;
 }
 .block {
     text-align: center;
@@ -35,5 +35,4 @@ h2{
     margin-bottom: 30px;
     margin-right: 100px;
     margin-left: 100px;
-    border-radius: 10px;
   }
